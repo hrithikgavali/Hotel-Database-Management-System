@@ -1,7 +1,7 @@
 # Hotel-Database-Management-System
 ## A website where customers could create an account and book rooms. Manager and Receptionists can administer the Hotel.
 
-We (Team of three) have created a project using PHP, MySQL, and Apache Server (using XAMPP) which simulates the booking process of a room in an hotel.
+We (Team of three) have created a project using PHP, MySQL, MariaDB and Apache Server (using XAMPP) which simulates the booking process of a room in an hotel.
 
 ### Customers:
 You can visit the website and create your own account. With this account, you can book rooms and view your booking history.
