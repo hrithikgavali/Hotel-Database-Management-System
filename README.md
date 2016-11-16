@@ -11,3 +11,6 @@ You can view all the employees currently working in the hotel and can edit their
 
 ### Receptionist:
 You can view reservations made by the customers. You can view but cannot change the room details. You can prepare a bill for customer and can add extra charges for extra services used.
+
+
+We have used a CSS template from w3schools. Javascript also used (for Date picker). mysqli Object oriented is used for connection to the database.
